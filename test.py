@@ -1,3 +1,4 @@
 a=input()
 b=input()
-return a+b
+sum=a+b
+print sum
